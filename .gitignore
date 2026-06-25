@@ -32,6 +32,7 @@ yarn-error.log*
 
 # env files (can opt-in for committing if needed)
 .env*
+!.env.example
 
 # vercel
 .vercel
@@ -64,8 +65,10 @@ source-*.json
 sample*.xlsx
 tool-results/
 
-# Prisma DB
+# Prisma DB (legacy SQLite — now using PostgreSQL)
 /prisma/*.db
-/prisma/*.db-journaldb/data.db
-db/data.db-journal
-db/data.db
+/prisma/*.db-journal
+db/*.db
+db/*.db-journal
+mini-services/ingestion-service/prisma/*.db
+mini-services/ingestion-service/prisma/*.db-journal

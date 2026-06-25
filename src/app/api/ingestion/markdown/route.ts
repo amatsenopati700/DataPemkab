@@ -1,9 +1,8 @@
 import { db } from '@/lib/db';
 import { NextResponse } from 'next/server';
-import { mkdirSync, writeFileSync, existsSync } from 'fs';
-import { join } from 'path';
 
-const DOCS_DIR = '/home/z/my-project/docs';
+// Vercel-compatible: only saves markdown to DB (no filesystem writes).
+// For local ingestion with filesystem output, use the ingestion-service mini-service.
 
 export async function POST() {
   try {
@@ -28,11 +27,11 @@ export async function POST() {
     for (const ds of datasets) {
       const md = buildMarkdown(ds);
       const orgSlug = ds.organization?.name || '_unorganized';
-      const orgDir = join(DOCS_DIR, orgSlug);
-      if (!existsSync(orgDir)) mkdirSync(orgDir, { recursive: true });
-      const mdPath = `${orgSlug}/${ds.name}.md`;
-      writeFileSync(join(DOCS_DIR, mdPath), md, 'utf-8');
-      await db.dataset.update({ where: { id: ds.id }, data: { markdownPath: mdPath, markdownContent: md } });
+      const mdPath = `docs/${orgSlug}/${ds.name}.md`;
+      await db.dataset.update({
+        where: { id: ds.id },
+        data: { markdownPath: mdPath, markdownContent: md },
+      });
       generated++;
     }
     return NextResponse.json({ generated, batch: datasets.length });

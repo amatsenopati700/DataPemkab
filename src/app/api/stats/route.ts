@@ -16,7 +16,7 @@ export async function GET() {
 
   const formattedOrgs = orgs.map(o => ({
     id: o.id, name: o.name, title: o.title,
-    imageUrl: o.image_url || o.imageUrl,
+    imageUrl: o.imageUrl,
     datasetCount: o._count.datasets,
   }));
 

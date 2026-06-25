@@ -105,4 +105,29 @@ Work Log:
 Stage Summary:
 - 6 commits pushed to https://github.com/amatsenopati700/DataPemkab.git
 - All phases complete
-- Project is production-ready (needs proper server with >1GB RAM for dev mode)
+- Project is production-ready (needs proper server with >1GB RAM for dev mode)---
+Task ID: vercel-postgres-migration
+Agent: main
+Task: Migrate project from SQLite to PostgreSQL for Vercel deployment
+
+Work Log:
+- Changed Prisma provider from `sqlite` to `postgresql` in both `prisma/schema.prisma` and `mini-services/ingestion-service/prisma/schema.prisma`
+- Added `directUrl = env("DIRECT_URL")` to datasource config for migration support
+- Installed `@prisma/adapter-pg@6.19.2` and `pg@8.22.0` for connection pooling
+- Rewrote `src/lib/db.ts` to use `PrismaPg` adapter with connection pool (max 5 connections)
+- Removed hardcoded SQLite path from db.ts
+- Removed `output: "standalone"` from `next.config.ts` (not needed for Vercel)
+- Updated `package.json` scripts: added `postinstall: "prisma generate"`, updated build to auto-push schema, changed start to `next start`
+- Fixed `api/ingestion/markdown/route.ts` to remove filesystem operations (not possible on Vercel read-only FS) - now only saves to DB
+- Fixed `image_url` → `imageUrl` type errors in stats and organizations API routes
+- Created `.env.example` with documented PostgreSQL connection string templates
+- Updated `.gitignore` to exclude SQLite DB files and allow `.env.example` in git
+- Updated `PLAN.md` with complete Vercel deployment documentation including architecture diagram
+- Aligned all Prisma package versions to 6.19.2
+- ESLint passes, TypeScript compiles clean for all src/ files
+
+Stage Summary:
+- Project is now fully Vercel-ready with PostgreSQL
+- User only needs to set `DATABASE_URL` and `DIRECT_URL` in Vercel env vars
+- Ingestion remains a local-only process (not deployed to Vercel)
+- Key files changed: prisma/schema.prisma, src/lib/db.ts, next.config.ts, package.json, .env.example, PLAN.md

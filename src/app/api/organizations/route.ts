@@ -12,7 +12,7 @@ export async function GET() {
     name: o.name,
     title: o.title,
     description: o.description,
-    imageUrl: o.image_url || o.imageUrl,
+    imageUrl: o.imageUrl,
     datasetCount: o._count.datasets,
   }));
 
