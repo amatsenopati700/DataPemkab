@@ -52,3 +52,18 @@ prompt
 server.log
 # Skills directory
 /skills/
+
+# Data files (large XLSX, raw downloads)
+/data/raw/
+*.xlsx
+*.xls
+all_dataset_names.json
+api-test-*.json
+search-datasets.json
+source-*.json
+sample*.xlsx
+tool-results/
+
+# Prisma DB
+/prisma/*.db
+/prisma/*.db-journal
