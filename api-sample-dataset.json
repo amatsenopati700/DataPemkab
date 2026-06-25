@@ -1,0 +1,25 @@
+{
+  "code": 200,
+  "data": {
+    "description": "",
+    "external": {},
+    "html": "<html><head><meta name=\"color-scheme\" content=\"light dark\"><meta charset=\"utf-8\"></head><body><pre>{\"help\": \"https://opendata.wonosobokab.go.id/api/3/action/help_show?name=package_show\", \"error\": {\"name_or_id\": [\"Missing value\"], \"__type\": \"Validation Error\"}, \"success\": false}</pre><div class=\"json-formatter-container\"></div></body></html>",
+    "httpStatus": 409,
+    "httpStatusText": "",
+    "metadata": {
+      "color-scheme": "light dark"
+    },
+    "title": "",
+    "url": "https://opendata.wonosobokab.go.id/api/3/action/package_show",
+    "usage": {
+      "tokens": 97
+    },
+    "warning": "Target URL returned error 409: Conflict"
+  },
+  "meta": {
+    "usage": {
+      "tokens": 97
+    }
+  },
+  "status": 20000
+}

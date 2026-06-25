@@ -1,0 +1,20 @@
+{
+  "code": 200,
+  "data": {
+    "description": "",
+    "html": "<html><head><meta name=\"color-scheme\" content=\"light dark\"></head><body><pre style=\"word-wrap: break-word; white-space: pre-wrap;\">{\"help\": \"https://opendata.wonosobokab.go.id/api/3/action/help_show?name=organization_list\", \"success\": true, \"result\": [\"bakesbangpol\", \"bapperlitbangda\", \"bkd\", \"bmkg\", \"bpbd\", \"bppkad\", \"bagian-hukum-setda\", \"badan-pusat-statitistik\", \"dinas-kesehatan\", \"dinsospmd\", \"disdagkopukm\", \"diskomifo\", \"disnakerintrans\", \"disperkimhub\", \"dpmptsp\", \"dppkbpppa\", \"dinas-kearsipan-dan-perpustakaan-daerah\", \"dinas-kependudukan-dan-pencatatan-sipil\", \"dinas-lingkungan-hidup\", \"dinas-pertanian-peternakan-dan-perikanan\", \"dinas-pariwisata-dan-kebudayaan\", \"dinas-pekerjaan-umum-dan-penataan-ruang\", \"dinas-pendidikan-pemuda-dan-olahraga\", \"imigrasi\", \"inspektorat\", \"kejaksanan-negeri\", \"kpu\", \"badan-pertanahan-nasional\", \"kementerian-agama\", \"bagian-kesra-setda\", \"pegadaian\", \"bagian-perekonomian-dan-sda\", \"bagian-pengadaan-barang-dan-jasa-setda\", \"bagian-administrasi-pembangunan-setda\", \"bagian-pemerintahan-setda\", \"polres\", \"pos-wonosobo\", \"pendapatan-per-kapita-rupiah-dalam-juta-masyarakat-kabupaten-wonosobo\", \"pku-wonosobo\", \"rsi-wonosobo\", \"rsia-adina\", \"rsud-setjonegoro\", \"rutan-wonosobo\", \"samsat-wonosobo\", \"kantor-satuan-pamong-praja\", \"sektretariat-dprd\", \"bagian-organisasi-setda\", \"telkom\"]}</pre></body></html>",
+    "httpStatus": 200,
+    "httpStatusText": "",
+    "title": "",
+    "url": "https://opendata.wonosobokab.go.id/api/3/action/organization_list",
+    "usage": {
+      "tokens": 516
+    }
+  },
+  "meta": {
+    "usage": {
+      "tokens": 516
+    }
+  },
+  "status": 20000
+}

@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<!--[if IE 9]> <html lang="id" class="ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="id"  > <!--<![endif]-->
+  <head>
+    <meta charset="utf-8" />
+      <meta name="csrf_field_name" content="_csrf_token" />
+      <meta name="_csrf_token" content="IjE1ZmQ5MGFkYjgwYTg2NDVhNjE2ZTljNWYxZWE4NTVhMGNhOTExNWEi.aj1dLw.XXFwo4mYE92825RIRW21Z1idzpg" />
+
+      <meta name="generator" content="ckan 2.10.4" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Error 404 - Open Data Kabupaten Wonosobo</title>
+
+    
+    <link rel="shortcut icon" href="/base/images/ckan.ico" />
+    
+      
+      
+      
+    
+
+    
+      
+      
+    
+
+    
+    <link href="/webassets/base/1c87a999_main.css" rel="stylesheet"/>
+    
+  </head>
+
+  
+  <body data-site-root="https://opendata.wonosobokab.go.id/" data-locale-root="https://opendata.wonosobokab.go.id/id/" >
+
+    
+    <div class="visually-hidden-focusable"><a href="#content">Skip to main content</a></div>
+  
+
+  
+    
+
+ 
+<div class="account-masthead">
+  <div class="container">
+     
+    <nav class="account not-authed" aria-label="Account">
+      <ul class="list-unstyled">
+        
+        <li><a href="/id/user/login">Log in</a></li>
+         
+      </ul>
+    </nav>
+     
+  </div>
+</div>
+
+<header class="masthead">
+  <div class="container">
+      
+    <nav class="navbar navbar-expand-lg navbar-light">
+      <hgroup class="header-image navbar-left">
+
+      
+      
+      <a class="logo" href="/id/">
+        <img src="/uploads/admin/2024-08-14-140645.531592Primary-Logo-Satu-Data-Wonosobosmall.png" alt="Open Data Kabupaten Wonosobo"
+          title="Open Data Kabupaten Wonosobo" />
+      </a>
+      
+      
+
+       </hgroup>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#main-navigation-toggle"
+        aria-controls="main-navigation-toggle" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="fa fa-bars text-white"></span>
+      </button>
+
+      <div class="main-navbar collapse navbar-collapse" id="main-navigation-toggle">
+        <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+          
+            
+              
+              
+
+		          <li class="active"><a href="/id/dataset/">Kumpulan data</a></li><li><a href="/id/organization/">Organisasi</a></li><li><a href="/id/group/">Grup</a></li><li><a href="/id/about">Tentang</a></li>
+	          
+          </ul>
+
+      
+      
+          <form class="d-flex site-search" action="/id/dataset/" method="get">
+              <label class="d-none" for="field-sitewide-search">Search Datasets...</label>
+              <input id="field-sitewide-search" class="form-control me-2"  type="text" name="q" placeholder="Cari" aria-label="Search datasets..."/>
+              <button class="btn" type="submit" aria-label="Submit"><i class="fa fa-search"></i></button>
+          </form>
+      
+      </div>
+    </nav>
+  </div>
+</header>
+
+  
+    <div class="main">
+      <div id="content" class="container">
+        
+          
+  
+  
+
+
+          
+            <div class="toolbar" role="navigation" aria-label="Breadcrumb">
+              
+
+            </div>
+          
+
+          <div class="row wrapper no-nav">
+            
+            
+            
+
+            
+
+            
+  <article class="module">
+    <div class="module-content">
+      
+      <h1>404 Not Found</h1>
+      
+      Sumberdaya tidak ditemukan
+    </div>
+    
+    
+  
+  </article>
+
+          </div>
+        
+      </div>
+    </div>
+  
+    <footer class="site-footer">
+  <div class="container">
+    
+    <div class="row">
+      <div class="col-md-8 footer-links">
+        
+          <ul class="list-unstyled">
+            
+              <li><a href="/id/about">About Open Data Kabupaten Wonosobo</a></li>
+            
+          </ul>
+          <ul class="list-unstyled">
+            
+              
+              <li><a href="http://docs.ckan.org/en/2.10/api/">CKAN API</a></li>
+              <li><a href="http://www.ckan.org/">CKAN Association</a></li>
+              <li><a href="http://www.opendefinition.org/okd/"><img src="/base/images/od_80x15_blue.png" alt="Open Data"></a></li>
+            
+          </ul>
+        
+      </div>
+      <div class="col-md-4 attribution">
+        
+          <p><strong>Powered by</strong> <a class="hide-text ckan-footer-logo" href="http://ckan.org">CKAN</a></p>
+        
+        
+          
+<form class="lang-select" action="/id/util/redirect" data-module="select-switch" method="POST">
+  
+<input type="hidden" name="_csrf_token" value="IjE1ZmQ5MGFkYjgwYTg2NDVhNjE2ZTljNWYxZWE4NTVhMGNhOTExNWEi.aj1dLw.XXFwo4mYE92825RIRW21Z1idzpg"/> 
+  <div class="form-group">
+    <label for="field-lang-select">Language</label>
+    <select id="field-lang-select" name="url" data-module="autocomplete" data-module-dropdown-class="lang-dropdown" data-module-container-class="lang-container">
+      
+        <option value="/en/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          English
+        </option>
+      
+        <option value="/ne/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          नेपाली
+        </option>
+      
+        <option value="/ro/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          română
+        </option>
+      
+        <option value="/lt/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          lietuvių
+        </option>
+      
+        <option value="/uk_UA/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          українська (Україна)
+        </option>
+      
+        <option value="/ja/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          日本語
+        </option>
+      
+        <option value="/mk/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          македонски
+        </option>
+      
+        <option value="/sl/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          slovenščina
+        </option>
+      
+        <option value="/uk/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          українська
+        </option>
+      
+        <option value="/tr/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          Türkçe
+        </option>
+      
+        <option value="/pt_PT/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          português (Portugal)
+        </option>
+      
+        <option value="/sq/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          shqip
+        </option>
+      
+        <option value="/nl/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          Nederlands
+        </option>
+      
+        <option value="/es_AR/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          español (Argentina)
+        </option>
+      
+        <option value="/sv/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          svenska
+        </option>
+      
+        <option value="/my_MM/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          မြန်မာ (မြန်မာ)
+        </option>
+      
+        <option value="/ru/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          русский
+        </option>
+      
+        <option value="/hr/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          hrvatski
+        </option>
+      
+        <option value="/fa_IR/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          فارسی (ایران)
+        </option>
+      
+        <option value="/no/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          norsk
+        </option>
+      
+        <option value="/nb_NO/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          norsk bokmål (Norge)
+        </option>
+      
+        <option value="/sr_Latn/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          srpski (latinica)
+        </option>
+      
+        <option value="/gl/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          galego
+        </option>
+      
+        <option value="/ca/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          català
+        </option>
+      
+        <option value="/fr/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          français
+        </option>
+      
+        <option value="/en_AU/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          English (Australia)
+        </option>
+      
+        <option value="/pl/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          polski
+        </option>
+      
+        <option value="/he/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          עברית
+        </option>
+      
+        <option value="/da_DK/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          dansk (Danmark)
+        </option>
+      
+        <option value="/id/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" selected="selected">
+          Indonesia
+        </option>
+      
+        <option value="/lv/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          latviešu
+        </option>
+      
+        <option value="/is/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          íslenska
+        </option>
+      
+        <option value="/bg/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          български
+        </option>
+      
+        <option value="/cs_CZ/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          čeština (Česko)
+        </option>
+      
+        <option value="/fi/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          suomi
+        </option>
+      
+        <option value="/de/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          Deutsch
+        </option>
+      
+        <option value="/hu/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          magyar
+        </option>
+      
+        <option value="/mn_MN/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          монгол (Монгол)
+        </option>
+      
+        <option value="/eu/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          euskara
+        </option>
+      
+        <option value="/tl/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          Filipino (Pilipinas)
+        </option>
+      
+        <option value="/km/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          ខ្មែរ
+        </option>
+      
+        <option value="/zh_Hans_CN/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          中文 (简体, 中国)
+        </option>
+      
+        <option value="/zh_Hant_TW/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          中文 (繁體, 台灣)
+        </option>
+      
+        <option value="/vi/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          Tiếng Việt
+        </option>
+      
+        <option value="/am/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          አማርኛ
+        </option>
+      
+        <option value="/it/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          italiano
+        </option>
+      
+        <option value="/bs/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          bosanski
+        </option>
+      
+        <option value="/el/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          Ελληνικά
+        </option>
+      
+        <option value="/th/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          ไทย
+        </option>
+      
+        <option value="/ko_KR/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          한국어 (대한민국)
+        </option>
+      
+        <option value="/pt_BR/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          português (Brasil)
+        </option>
+      
+        <option value="/sr/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          српски
+        </option>
+      
+        <option value="/ar/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          العربية
+        </option>
+      
+        <option value="/es/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          español
+        </option>
+      
+        <option value="/sk/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          slovenčina
+        </option>
+      
+        <option value="/en_GB/dataset/0fc3683a-c1a7-424f-a8a3-e0f104511583/resource/7f06151d-7de6-44be-b9b8-f2b9f2ba5ee1/download/aksesanitasilayakkabupatenwonosobotahun2024triwulan.xlsx" >
+          English (United Kingdom)
+        </option>
+      
+    </select>
+  </div>
+  <button class="btn btn-default d-none " type="submit">Go</button>
+</form>
+
+
+        
+      </div>
+    </div>
+    
+  </div>
+</footer>
+  
+  
+  
+  
+  
+    
+
+      
+
+    
+    
+    <link href="/webassets/vendor/f3b8236b_select2.css" rel="stylesheet"/>
+<link href="/webassets/vendor/d05bf0e7_fontawesome.css" rel="stylesheet"/>
+    <script src="/webassets/vendor/8c3c143a_jquery.js" type="text/javascript"></script>
+<script src="/webassets/vendor/5027b870_vendor.js" type="text/javascript"></script>
+<script src="/webassets/vendor/6d1ad7e6_bootstrap.js" type="text/javascript"></script>
+<script src="/webassets/base/6fddaa3f_main.js" type="text/javascript"></script>
+<script src="/webassets/base/0d750fad_ckan.js" type="text/javascript"></script>
+  </body>
+</html>

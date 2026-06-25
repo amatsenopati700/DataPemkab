@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://opendata.wonosobokab.go.id/fa_IR/dataset/?tags=kb&license_id=cc-by",
+    "name": "Dataset - Open Data Kabupaten Wonosobo",
+    "snippet": "Dataset - Open Data Kabupaten Wonosobo. You can also access this registry using the API. KAN Association Open Data Powered by CKAN Language English",
+    "host_name": "opendata.wonosobokab.go.id",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://opendata.wonosobokab.go.id/dataset/?tags=gedung&organization=dinas-pekerjaan-umum-dan-penataan-ruang",
+    "name": "Dataset - Open Data Kabupaten Wonosobo",
+    "snippet": "Dataset - Open Data Kabupaten Wonosobo. Home Datasets Organizations. You can also access this registry using the API",
+    "host_name": "opendata.wonosobokab.go.id",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://opendata.wonosobokab.go.id/en_AU/dataset/?_tags_limit=0&tags=toko+modern&tags=perdagangan",
+    "name": "Dataset - Open Data Kabupaten Wonosobo",
+    "snippet": "Dataset - Open Data Kabupaten Wonosobo. You can also access this registry using the API (see API Docs).",
+    "host_name": "opendata.wonosobokab.go.id",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://opendata.wonosobokab.go.id/ne/dataset/?tags=permustakaan&tags=pengunjung+perpustakaan&tags=kunjungan+masyarakat",
+    "name": "Dataset - Open Data Kabupaten Wonosobo",
+    "snippet": "Dataset - Open Data Kabupaten Wonosobo. You can also access this registry using the API (see API Docs).",
+    "host_name": "opendata.wonosobokab.go.id",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://opendata.wonosobokab.go.id/en_AU/dataset/?_groups_limit=0&_tags_limit=0&_organization_limit=0&tags=disabilitas&tags=triwulan-1",
+    "name": "Dataset - Open Data Kabupaten Wonosobo",
+    "snippet": "Dataset - Open Data Kabupaten Wonosobo. You can also access this registry using the API. KAN Association Open Data Powered by CKAN Language English",
+    "host_name": "opendata.wonosobokab.go.id",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://opendata.wonosobokab.go.id/en_AU/dataset/?_groups_limit=0&_tags_limit=0&_organization_limit=0&organization=dinsospmd&tags=disabilitas&tags=kelompok-rentan",
+    "name": "Dataset - Open Data Kabupaten Wonosobo",
+    "snippet": "Dataset - Open Data Kabupaten Wonosobo. You can also access this registry using the API. KAN Association Open Data Powered by CKAN Language English",
+    "host_name": "opendata.wonosobokab.go.id",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://opendata.wonosobokab.go.id/dataset/?organization=badan-penanggulangan-bencana-daerah-dan-pemadam-kebakaran&license_id=cc-by",
+    "name": "Dataset - Open Data Kabupaten Wonosobo",
+    "snippet": "Datasets · Organizations · Groups · About. Search Datasets... Home · Datasets. Organizations. There are no Organizations that match this search. Groups. There ...",
+    "host_name": "opendata.wonosobokab.go.id",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://opendata.wonosobokab.go.id/dataset/?organization=dinas-kesehatan&tags=kesehatan+masyarakat&tags=kesehatan+lingkungan",
+    "name": "Dataset - Open Data Kabupaten Wonosobo",
+    "snippet": "Data Pos Kesehatan Pesantren (Poskestren) Kabupaten Wonosobo Semester II Tahun 2024 ... You can also access this registry using the API (see API Docs).",
+    "host_name": "opendata.wonosobokab.go.id",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://opendata.wonosobokab.go.id/ne/dataset/?tags=maret&tags=harga+kebutuhan+pokok&tags=perbandingan+harga&tags=Wonosobo",
+    "name": "Dataset - Open Data Kabupaten Wonosobo",
+    "snippet": "Dataset - Open Data Kabupaten Wonosobo. You can also access this registry using the API (see API Docs).",
+    "host_name": "opendata.wonosobokab.go.id",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://opendata.wonosobokab.go.id/ne/dataset/?_tags_limit=0&tags=ekonomi&tags=UMKM&res_format=XLSX&organization=disnakerintrans",
+    "name": "Dataset - Open Data Kabupaten Wonosobo",
+    "snippet": "1 dataset found. Tags: ekonomi UMKM Formats: XLSX Organizations: DISNAKERINTRANS. Filter Results. Jumlah Seluruh Industri Kecil Kabupaten Wonosobo.",
+    "host_name": "opendata.wonosobokab.go.id",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]
