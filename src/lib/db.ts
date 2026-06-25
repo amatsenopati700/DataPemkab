@@ -7,6 +7,7 @@ const globalForPrisma = globalThis as unknown as {
 export const db =
   globalForPrisma.prisma ??
   new PrismaClient({
+    datasources: { db: { url: 'file:/home/z/my-project/db/data.db' } },
     log: [],
   })
 
