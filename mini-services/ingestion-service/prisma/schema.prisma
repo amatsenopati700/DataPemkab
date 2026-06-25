@@ -1,0 +1,156 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = "file:./data.db"
+}
+
+model Organization {
+  id           String    @id @default(cuid())
+  ckanId       String    @unique
+  name         String    @unique
+  title        String
+  description  String    @default("")
+  imageUrl     String    @default("")
+  packageCount Int       @default(0)
+  createdAt    DateTime  @default(now())
+  updatedAt    DateTime  @updatedAt
+
+  datasets     Dataset[]
+}
+
+model Dataset {
+  id               String    @id @default(cuid())
+  ckanId           String    @unique
+  name             String    @unique
+  title            String
+  notes            String    @default("")
+  licenseId        String    @default("")
+  licenseTitle     String    @default("")
+  state            String    @default("active")
+  metadataCreated  DateTime?
+  metadataModified DateTime?
+  author           String    @default("")
+  isLatest         Boolean   @default(true)
+
+  organizationId   String?
+  organization     Organization?  @relation(fields: [organizationId], references: [id], onDelete: SetNull)
+  ownerOrgCkanId   String    @default("")
+
+  resources        Resource[]
+  tags             DatasetTag[]
+  dataTables       DataTable[]
+  markdownPath     String    @default("")
+  markdownContent  String    @default("")
+
+  createdAt        DateTime  @default(now())
+  updatedAt        DateTime  @updatedAt
+
+  @@index([organizationId])
+  @@index([metadataModified])
+  @@index([isLatest])
+}
+
+model Resource {
+  id          String   @id @default(cuid())
+  ckanId      String   @unique
+  name        String   @default("")
+  format      String   @default("")
+  size        Int      @default(0)
+  url         String
+  mimetype    String   @default("")
+  hash        String   @default("")
+  urlType     String   @default("")
+  state       String   @default("active")
+
+  datasetId   String
+  dataset     Dataset  @relation(fields: [datasetId], references: [id], onDelete: Cascade)
+
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  @@index([format])
+  @@index([datasetId])
+}
+
+model DataTable {
+  id          String   @id @default(cuid())
+  resourceCkanId String @default("")
+  sheetName   String
+  rowCount    Int      @default(0)
+  colCount    Int      @default(0)
+  headersJson String   @default("[]")
+
+  datasetId   String
+  dataset     Dataset  @relation(fields: [datasetId], references: [id], onDelete: Cascade)
+  resourceCkan String?
+
+  columns     DataColumn[]
+  rows        DataRow[]
+
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  @@index([datasetId])
+}
+
+model DataColumn {
+  id        String   @id @default(cuid())
+  colIndex  Int
+  colName   String
+  colType   String   @default("string")
+
+  tableId   String
+  table     DataTable @relation(fields: [tableId], references: [id], onDelete: Cascade)
+
+  @@index([tableId])
+}
+
+model DataRow {
+  id        String   @id @default(cuid())
+  rowIndex  Int
+  valuesJson String
+
+  tableId   String
+  table     DataTable @relation(fields: [tableId], references: [id], onDelete: Cascade)
+
+  @@index([tableId])
+}
+
+model Tag {
+  id          String   @id @default(cuid())
+  name        String   @unique
+  displayName String   @default("")
+
+  datasets    DatasetTag[]
+
+  createdAt   DateTime @default(now())
+}
+
+model DatasetTag {
+  datasetId   String
+  dataset     Dataset  @relation(fields: [datasetId], references: [id], onDelete: Cascade)
+  tagId       String
+  tag         Tag      @relation(fields: [tagId], references: [id], onDelete: Cascade)
+
+  @@id([datasetId, tagId])
+  @@index([tagId])
+}
+
+model IngestionLog {
+  id          String   @id @default(cuid())
+  phase       String
+  datasetCkanName String @default("")
+  status      String   @default("pending")
+  errorMessage String  @default("")
+  metadata    String   @default("{}")
+  startedAt   DateTime?
+  completedAt DateTime?
+
+  createdAt   DateTime @default(now())
+
+  @@index([phase])
+  @@index([status])
+}
