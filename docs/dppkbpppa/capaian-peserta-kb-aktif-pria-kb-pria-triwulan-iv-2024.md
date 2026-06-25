@@ -1,0 +1,55 @@
+---
+title: "Capaian Peserta KB Aktif Pria (KB Pria) Triwulan IV 2024"
+slug: capaian-peserta-kb-aktif-pria-kb-pria-triwulan-iv-2024
+organization: DPPKBPPPA
+organization_slug: dppkbpppa
+source_url: https://opendata.wonosobokab.go.id/dataset/7b23c7a0-431f-4b25-b504-b7078d287dc0
+license: unknown
+format: XLSX
+file_size: 10607
+download_url: https://opendata.wonosobokab.go.id/dataset/7b23c7a0-431f-4b25-b504-b7078d287dc0/resource/ebb6d1ba-9f17-468d-8e54-5d07b6fb2250/download/qtfbh3kquwgc_pesertakbpria.xlsx
+created_at: 2026-03-02T01:41:04.502Z
+modified_at: 2026-03-02T01:41:16.126Z
+is_latest: true
+tags:
+  - "kependudukan"
+  - "keluarga berencana"
+  - "triwulan 4"
+  - "KB pria"
+tables:
+  - sheet: "Sheet1"
+    rows: 20
+    columns: 7
+    headers:
+      - { index: 0, name: "URUSAN : PENGENDALIAN PENDUDUK DAN KELUARGA BERENCANA (INDIKATOR : PECAPAIAN PESERTA KB AKTIF PRIA (KB PRIA))", type: "integer" }
+      - { index: 1, name: "URUSAN : PENGENDALIAN PENDUDUK DAN KELUARGA BERENCANA (INDIKATOR : PECAPAIAN PESERTA KB AKTIF PRIA (KB PRIA))", type: "string" }
+      - { index: 2, name: "URUSAN : PENGENDALIAN PENDUDUK DAN KELUARGA BERENCANA (INDIKATOR : PECAPAIAN PESERTA KB AKTIF PRIA (KB PRIA))", type: "integer" }
+      - { index: 3, name: "URUSAN : PENGENDALIAN PENDUDUK DAN KELUARGA BERENCANA (INDIKATOR : PECAPAIAN PESERTA KB AKTIF PRIA (KB PRIA))", type: "integer" }
+      - { index: 4, name: "URUSAN : PENGENDALIAN PENDUDUK DAN KELUARGA BERENCANA (INDIKATOR : PECAPAIAN PESERTA KB AKTIF PRIA (KB PRIA))", type: "integer" }
+      - { index: 5, name: "URUSAN : PENGENDALIAN PENDUDUK DAN KELUARGA BERENCANA (INDIKATOR : PECAPAIAN PESERTA KB AKTIF PRIA (KB PRIA))", type: "integer" }
+      - { index: 6, name: "URUSAN : PENGENDALIAN PENDUDUK DAN KELUARGA BERENCANA (INDIKATOR : PECAPAIAN PESERTA KB AKTIF PRIA (KB PRIA))", type: "float" }
+---
+
+# Capaian Peserta KB Aktif Pria (KB Pria) Triwulan IV 2024
+
+> **Sumber:** Open Data Kabupaten Wonosobo — DPPKBPPPA
+
+## Deskripsi
+
+Capaian Peserta KB Aktif Pria (KB Pria) Triwulan IV 2024
+
+## Data: Sheet1
+
+| URUSAN : PENGENDALIAN PENDUDUK DAN KELUARGA BERENCANA (INDIKATOR : PECAPAIAN PESERTA KB AKTIF PRIA (KB PRIA)) | URUSAN : PENGENDALIAN PENDUDUK DAN KELUARGA BERENCANA (INDIKATOR : PECAPAIAN PESERTA KB AKTIF PRIA (KB PRIA)) | URUSAN : PENGENDALIAN PENDUDUK DAN KELUARGA BERENCANA (INDIKATOR : PECAPAIAN PESERTA KB AKTIF PRIA (KB PRIA)) | URUSAN : PENGENDALIAN PENDUDUK DAN KELUARGA BERENCANA (INDIKATOR : PECAPAIAN PESERTA KB AKTIF PRIA (KB PRIA)) | URUSAN : PENGENDALIAN PENDUDUK DAN KELUARGA BERENCANA (INDIKATOR : PECAPAIAN PESERTA KB AKTIF PRIA (KB PRIA)) | URUSAN : PENGENDALIAN PENDUDUK DAN KELUARGA BERENCANA (INDIKATOR : PECAPAIAN PESERTA KB AKTIF PRIA (KB PRIA)) | URUSAN : PENGENDALIAN PENDUDUK DAN KELUARGA BERENCANA (INDIKATOR : PECAPAIAN PESERTA KB AKTIF PRIA (KB PRIA)) |
+| --- | --- | --- | --- | --- | --- | --- |
+| TAHUN : TRIWULAN IV TAHUN 2024 | TAHUN : TRIWULAN IV TAHUN 2024 | TAHUN : TRIWULAN IV TAHUN 2024 | TAHUN : TRIWULAN IV TAHUN 2024 | TAHUN : TRIWULAN IV TAHUN 2024 | TAHUN : TRIWULAN IV TAHUN 2024 | TAHUN : TRIWULAN IV TAHUN 2024 |
+| NO | KECAMATAN | JUMLAH PESERTA AKTIF | KONTRASEPSI PRIA | KONTRASEPSI PRIA | KONTRASEPSI PRIA | %PA PRIA/PA SELURUHNYA |
+| NO | KECAMATAN | JUMLAH PESERTA AKTIF | MOP | KONDOM | JUMLAH | %PA PRIA/PA SELURUHNYA |
+| 1 | 2 | 3 | 6 | 7 | 11 | 12 |
+| 1 | WADASLINTANG | 6514 | 6 | 148 | 154 | 2.36 |
+
+*Total: 20 baris × 7 kolom*
+
+---
+
+*Data dari [Open Data Kabupaten Wonosobo](https://opendata.wonosobokab.go.id/), dikonversi otomatis dari XLSX.*

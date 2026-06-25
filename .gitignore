@@ -68,3 +68,4 @@ tool-results/
 /prisma/*.db
 /prisma/*.db-journaldb/data.db
 db/data.db-journal
+db/data.db

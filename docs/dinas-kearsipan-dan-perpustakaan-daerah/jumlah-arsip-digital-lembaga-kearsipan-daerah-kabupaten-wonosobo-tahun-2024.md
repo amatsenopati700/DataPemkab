@@ -1,0 +1,80 @@
+---
+title: "Jumlah Arsip Digital Lembaga Kearsipan Daerah Kabupaten Wonosobo Tahun 2024"
+slug: jumlah-arsip-digital-lembaga-kearsipan-daerah-kabupaten-wonosobo-tahun-2024
+organization: Dinas Kearsipan dan Perpustakaan Daerah
+organization_slug: dinas-kearsipan-dan-perpustakaan-daerah
+source_url: https://opendata.wonosobokab.go.id/dataset/90e84aa2-905f-4461-9f5d-ffbd1f5096f3
+license: unknown
+format: XLSX
+file_size: 11052
+download_url: https://opendata.wonosobokab.go.id/dataset/90e84aa2-905f-4461-9f5d-ffbd1f5096f3/resource/4ab320e7-b60c-45c5-92e1-5b915d3b7e9b/download/sd90kslll282_arsipdigital.xlsx
+created_at: 2026-02-25T02:36:11.893Z
+modified_at: 2026-02-25T02:36:26.979Z
+is_latest: true
+tags:
+  - "data 2024"
+  - "lembaga kearsipan daerah"
+  - "arsip digital"
+  - "lkd"
+tables:
+  - sheet: "Sheet1"
+    rows: 19
+    columns: 8
+    headers:
+      - { index: 0, name: "JUMLAH SELURUH ARSIP DIGITAL YANG DIMILIKI OLEH LEMBAGA KEARSIPAN DAERAH KABUPATEN WONOSOBO TAHUN 2024", type: "integer" }
+      - { index: 1, name: "JUMLAH SELURUH ARSIP DIGITAL YANG DIMILIKI OLEH LEMBAGA KEARSIPAN DAERAH KABUPATEN WONOSOBO TAHUN 2024", type: "string" }
+      - { index: 2, name: "JUMLAH SELURUH ARSIP DIGITAL YANG DIMILIKI OLEH LEMBAGA KEARSIPAN DAERAH KABUPATEN WONOSOBO TAHUN 2024", type: "string" }
+      - { index: 3, name: "JUMLAH SELURUH ARSIP DIGITAL YANG DIMILIKI OLEH LEMBAGA KEARSIPAN DAERAH KABUPATEN WONOSOBO TAHUN 2024", type: "string" }
+      - { index: 4, name: "JUMLAH SELURUH ARSIP DIGITAL YANG DIMILIKI OLEH LEMBAGA KEARSIPAN DAERAH KABUPATEN WONOSOBO TAHUN 2024", type: "string" }
+      - { index: 5, name: "JUMLAH SELURUH ARSIP DIGITAL YANG DIMILIKI OLEH LEMBAGA KEARSIPAN DAERAH KABUPATEN WONOSOBO TAHUN 2024", type: "string" }
+      - { index: 6, name: "JUMLAH SELURUH ARSIP DIGITAL YANG DIMILIKI OLEH LEMBAGA KEARSIPAN DAERAH KABUPATEN WONOSOBO TAHUN 2024", type: "float" }
+      - { index: 7, name: "JUMLAH SELURUH ARSIP DIGITAL YANG DIMILIKI OLEH LEMBAGA KEARSIPAN DAERAH KABUPATEN WONOSOBO TAHUN 2024", type: "string" }
+  - sheet: "Sheet1"
+    rows: 19
+    columns: 8
+    headers:
+      - { index: 0, name: "JUMLAH SELURUH ARSIP DIGITAL YANG DIMILIKI OLEH LEMBAGA KEARSIPAN DAERAH KABUPATEN WONOSOBO TAHUN 2024", type: "integer" }
+      - { index: 1, name: "JUMLAH SELURUH ARSIP DIGITAL YANG DIMILIKI OLEH LEMBAGA KEARSIPAN DAERAH KABUPATEN WONOSOBO TAHUN 2024", type: "string" }
+      - { index: 2, name: "JUMLAH SELURUH ARSIP DIGITAL YANG DIMILIKI OLEH LEMBAGA KEARSIPAN DAERAH KABUPATEN WONOSOBO TAHUN 2024", type: "string" }
+      - { index: 3, name: "JUMLAH SELURUH ARSIP DIGITAL YANG DIMILIKI OLEH LEMBAGA KEARSIPAN DAERAH KABUPATEN WONOSOBO TAHUN 2024", type: "string" }
+      - { index: 4, name: "JUMLAH SELURUH ARSIP DIGITAL YANG DIMILIKI OLEH LEMBAGA KEARSIPAN DAERAH KABUPATEN WONOSOBO TAHUN 2024", type: "string" }
+      - { index: 5, name: "JUMLAH SELURUH ARSIP DIGITAL YANG DIMILIKI OLEH LEMBAGA KEARSIPAN DAERAH KABUPATEN WONOSOBO TAHUN 2024", type: "string" }
+      - { index: 6, name: "JUMLAH SELURUH ARSIP DIGITAL YANG DIMILIKI OLEH LEMBAGA KEARSIPAN DAERAH KABUPATEN WONOSOBO TAHUN 2024", type: "float" }
+      - { index: 7, name: "JUMLAH SELURUH ARSIP DIGITAL YANG DIMILIKI OLEH LEMBAGA KEARSIPAN DAERAH KABUPATEN WONOSOBO TAHUN 2024", type: "string" }
+---
+
+# Jumlah Arsip Digital Lembaga Kearsipan Daerah Kabupaten Wonosobo Tahun 2024
+
+> **Sumber:** Open Data Kabupaten Wonosobo — Dinas Kearsipan dan Perpustakaan Daerah
+
+## Deskripsi
+
+Jumlah Arsip Digital Lembaga Kearsipan Daerah Kabupaten Wonosobo Tahun 2024
+
+## Data: Sheet1
+
+| JUMLAH SELURUH ARSIP DIGITAL YANG DIMILIKI OLEH LEMBAGA KEARSIPAN DAERAH KABUPATEN WONOSOBO TAHUN 2024 | JUMLAH SELURUH ARSIP DIGITAL YANG DIMILIKI OLEH LEMBAGA KEARSIPAN DAERAH KABUPATEN WONOSOBO TAHUN 2024 | JUMLAH SELURUH ARSIP DIGITAL YANG DIMILIKI OLEH LEMBAGA KEARSIPAN DAERAH KABUPATEN WONOSOBO TAHUN 2024 | JUMLAH SELURUH ARSIP DIGITAL YANG DIMILIKI OLEH LEMBAGA KEARSIPAN DAERAH KABUPATEN WONOSOBO TAHUN 2024 | JUMLAH SELURUH ARSIP DIGITAL YANG DIMILIKI OLEH LEMBAGA KEARSIPAN DAERAH KABUPATEN WONOSOBO TAHUN 2024 | JUMLAH SELURUH ARSIP DIGITAL YANG DIMILIKI OLEH LEMBAGA KEARSIPAN DAERAH KABUPATEN WONOSOBO TAHUN 2024 | JUMLAH SELURUH ARSIP DIGITAL YANG DIMILIKI OLEH LEMBAGA KEARSIPAN DAERAH KABUPATEN WONOSOBO TAHUN 2024 | JUMLAH SELURUH ARSIP DIGITAL YANG DIMILIKI OLEH LEMBAGA KEARSIPAN DAERAH KABUPATEN WONOSOBO TAHUN 2024 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| No | Jenis Arsip | Jumlah | Judul | Judul | Keterangan |  |  |
+| 1 | Alih media Konvensional | 9 Judul | 1 | Sejarah  DPRDS  Wonosobo Tahun 1956 |  | 190 | Lembar |
+| 1 | Alih media Konvensional | 9 Judul | 2 | NV Tambi | 48 Berkas | 613 | Lembar |
+| 1 | Alih media Konvensional | 9 Judul | 3 | SMK  Muhammadiyah 1 Wonosobo |  | 19 | Lemba r |
+| 1 | Alih media Konvensional | 9 Judul | 4 | PT Dieng Jaya | 6 Berkas | 45 | Lembar |
+
+*Total: 19 baris × 8 kolom*
+
+## Data: Sheet1
+
+| JUMLAH SELURUH ARSIP DIGITAL YANG DIMILIKI OLEH LEMBAGA KEARSIPAN DAERAH KABUPATEN WONOSOBO TAHUN 2024 | JUMLAH SELURUH ARSIP DIGITAL YANG DIMILIKI OLEH LEMBAGA KEARSIPAN DAERAH KABUPATEN WONOSOBO TAHUN 2024 | JUMLAH SELURUH ARSIP DIGITAL YANG DIMILIKI OLEH LEMBAGA KEARSIPAN DAERAH KABUPATEN WONOSOBO TAHUN 2024 | JUMLAH SELURUH ARSIP DIGITAL YANG DIMILIKI OLEH LEMBAGA KEARSIPAN DAERAH KABUPATEN WONOSOBO TAHUN 2024 | JUMLAH SELURUH ARSIP DIGITAL YANG DIMILIKI OLEH LEMBAGA KEARSIPAN DAERAH KABUPATEN WONOSOBO TAHUN 2024 | JUMLAH SELURUH ARSIP DIGITAL YANG DIMILIKI OLEH LEMBAGA KEARSIPAN DAERAH KABUPATEN WONOSOBO TAHUN 2024 | JUMLAH SELURUH ARSIP DIGITAL YANG DIMILIKI OLEH LEMBAGA KEARSIPAN DAERAH KABUPATEN WONOSOBO TAHUN 2024 | JUMLAH SELURUH ARSIP DIGITAL YANG DIMILIKI OLEH LEMBAGA KEARSIPAN DAERAH KABUPATEN WONOSOBO TAHUN 2024 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| No | Jenis Arsip | Jumlah | Judul | Judul | Keterangan |  |  |
+| 1 | Alih media Konvensional | 9 Judul | 1 | Sejarah  DPRDS  Wonosobo Tahun 1956 |  | 190 | Lembar |
+| 1 | Alih media Konvensional | 9 Judul | 2 | NV Tambi | 48 Berkas | 613 | Lembar |
+| 1 | Alih media Konvensional | 9 Judul | 3 | SMK  Muhammadiyah 1 Wonosobo |  | 19 | Lemba r |
+| 1 | Alih media Konvensional | 9 Judul | 4 | PT Dieng Jaya | 6 Berkas | 45 | Lembar |
+
+*Total: 19 baris × 8 kolom*
+
+---
+
+*Data dari [Open Data Kabupaten Wonosobo](https://opendata.wonosobokab.go.id/), dikonversi otomatis dari XLSX.*

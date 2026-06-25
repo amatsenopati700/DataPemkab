@@ -1,0 +1,81 @@
+---
+title: "Indikator RPJMD Urusan PU dan Penataan Ruang DLH Wonosobo TW I 2024"
+slug: indikator-rpjmd-urusan-pu-dan-penataan-ruang-dlh-wonosobo-tw-i-2024
+organization: Dinas Lingkungan Hidup
+organization_slug: dinas-lingkungan-hidup
+source_url: https://opendata.wonosobokab.go.id/dataset/73d25794-7e64-4f85-a701-9c5057c0aace
+license: unknown
+format: XLSX
+file_size: 9912
+download_url: https://opendata.wonosobokab.go.id/dataset/73d25794-7e64-4f85-a701-9c5057c0aace/resource/65e112ff-2c0e-4f2b-ba13-8be2390bbad2/download/2tlafvfkyruu_dataindikatorrpjmdurusanpekerjaanumumdanpenataanruangtriwulanith2024.xlsx
+created_at: 2026-02-25T04:26:49.701Z
+modified_at: 2026-02-25T04:26:58.234Z
+is_latest: true
+tags:
+  - "data 2024"
+  - "pupenataan ruang"
+  - "rpjmd"
+tables:
+  - sheet: "Sheet1"
+    rows: 5
+    columns: 9
+    headers:
+      - { index: 0, name: "DATA INFDIKATOR RPJMD URUSAN PEKERJAAN UMUM DAN PENATAAN RUANG DINAS LINGKUNGAN HIDUP KAB. WONOSOBO TRIWULAN I TAHUN 2024", type: "string" }
+      - { index: 1, name: "DATA INFDIKATOR RPJMD URUSAN PEKERJAAN UMUM DAN PENATAAN RUANG DINAS LINGKUNGAN HIDUP KAB. WONOSOBO TRIWULAN I TAHUN 2024", type: "string" }
+      - { index: 2, name: "DATA INFDIKATOR RPJMD URUSAN PEKERJAAN UMUM DAN PENATAAN RUANG DINAS LINGKUNGAN HIDUP KAB. WONOSOBO TRIWULAN I TAHUN 2024", type: "string" }
+      - { index: 3, name: "DATA INFDIKATOR RPJMD URUSAN PEKERJAAN UMUM DAN PENATAAN RUANG DINAS LINGKUNGAN HIDUP KAB. WONOSOBO TRIWULAN I TAHUN 2024", type: "string" }
+      - { index: 4, name: "DATA INFDIKATOR RPJMD URUSAN PEKERJAAN UMUM DAN PENATAAN RUANG DINAS LINGKUNGAN HIDUP KAB. WONOSOBO TRIWULAN I TAHUN 2024", type: "string" }
+      - { index: 5, name: "DATA INFDIKATOR RPJMD URUSAN PEKERJAAN UMUM DAN PENATAAN RUANG DINAS LINGKUNGAN HIDUP KAB. WONOSOBO TRIWULAN I TAHUN 2024", type: "string" }
+      - { index: 6, name: "DATA INFDIKATOR RPJMD URUSAN PEKERJAAN UMUM DAN PENATAAN RUANG DINAS LINGKUNGAN HIDUP KAB. WONOSOBO TRIWULAN I TAHUN 2024", type: "string" }
+      - { index: 7, name: "DATA INFDIKATOR RPJMD URUSAN PEKERJAAN UMUM DAN PENATAAN RUANG DINAS LINGKUNGAN HIDUP KAB. WONOSOBO TRIWULAN I TAHUN 2024", type: "string" }
+      - { index: 8, name: "DATA INFDIKATOR RPJMD URUSAN PEKERJAAN UMUM DAN PENATAAN RUANG DINAS LINGKUNGAN HIDUP KAB. WONOSOBO TRIWULAN I TAHUN 2024", type: "string" }
+  - sheet: "Sheet1"
+    rows: 5
+    columns: 9
+    headers:
+      - { index: 0, name: "DATA INFDIKATOR RPJMD URUSAN PEKERJAAN UMUM DAN PENATAAN RUANG DINAS LINGKUNGAN HIDUP KAB. WONOSOBO TRIWULAN I TAHUN 2024", type: "string" }
+      - { index: 1, name: "DATA INFDIKATOR RPJMD URUSAN PEKERJAAN UMUM DAN PENATAAN RUANG DINAS LINGKUNGAN HIDUP KAB. WONOSOBO TRIWULAN I TAHUN 2024", type: "string" }
+      - { index: 2, name: "DATA INFDIKATOR RPJMD URUSAN PEKERJAAN UMUM DAN PENATAAN RUANG DINAS LINGKUNGAN HIDUP KAB. WONOSOBO TRIWULAN I TAHUN 2024", type: "string" }
+      - { index: 3, name: "DATA INFDIKATOR RPJMD URUSAN PEKERJAAN UMUM DAN PENATAAN RUANG DINAS LINGKUNGAN HIDUP KAB. WONOSOBO TRIWULAN I TAHUN 2024", type: "string" }
+      - { index: 4, name: "DATA INFDIKATOR RPJMD URUSAN PEKERJAAN UMUM DAN PENATAAN RUANG DINAS LINGKUNGAN HIDUP KAB. WONOSOBO TRIWULAN I TAHUN 2024", type: "string" }
+      - { index: 5, name: "DATA INFDIKATOR RPJMD URUSAN PEKERJAAN UMUM DAN PENATAAN RUANG DINAS LINGKUNGAN HIDUP KAB. WONOSOBO TRIWULAN I TAHUN 2024", type: "string" }
+      - { index: 6, name: "DATA INFDIKATOR RPJMD URUSAN PEKERJAAN UMUM DAN PENATAAN RUANG DINAS LINGKUNGAN HIDUP KAB. WONOSOBO TRIWULAN I TAHUN 2024", type: "string" }
+      - { index: 7, name: "DATA INFDIKATOR RPJMD URUSAN PEKERJAAN UMUM DAN PENATAAN RUANG DINAS LINGKUNGAN HIDUP KAB. WONOSOBO TRIWULAN I TAHUN 2024", type: "string" }
+      - { index: 8, name: "DATA INFDIKATOR RPJMD URUSAN PEKERJAAN UMUM DAN PENATAAN RUANG DINAS LINGKUNGAN HIDUP KAB. WONOSOBO TRIWULAN I TAHUN 2024", type: "string" }
+---
+
+# Indikator RPJMD Urusan PU dan Penataan Ruang DLH Wonosobo TW I 2024
+
+> **Sumber:** Open Data Kabupaten Wonosobo — Dinas Lingkungan Hidup
+
+## Deskripsi
+
+Indikator RPJMD Urusan PU dan Penataan Ruang DLH Wonosobo TW I 2024
+
+## Data: Sheet1
+
+| DATA INFDIKATOR RPJMD URUSAN PEKERJAAN UMUM DAN PENATAAN RUANG DINAS LINGKUNGAN HIDUP KAB. WONOSOBO TRIWULAN I TAHUN 2024 | DATA INFDIKATOR RPJMD URUSAN PEKERJAAN UMUM DAN PENATAAN RUANG DINAS LINGKUNGAN HIDUP KAB. WONOSOBO TRIWULAN I TAHUN 2024 | DATA INFDIKATOR RPJMD URUSAN PEKERJAAN UMUM DAN PENATAAN RUANG DINAS LINGKUNGAN HIDUP KAB. WONOSOBO TRIWULAN I TAHUN 2024 | DATA INFDIKATOR RPJMD URUSAN PEKERJAAN UMUM DAN PENATAAN RUANG DINAS LINGKUNGAN HIDUP KAB. WONOSOBO TRIWULAN I TAHUN 2024 | DATA INFDIKATOR RPJMD URUSAN PEKERJAAN UMUM DAN PENATAAN RUANG DINAS LINGKUNGAN HIDUP KAB. WONOSOBO TRIWULAN I TAHUN 2024 | DATA INFDIKATOR RPJMD URUSAN PEKERJAAN UMUM DAN PENATAAN RUANG DINAS LINGKUNGAN HIDUP KAB. WONOSOBO TRIWULAN I TAHUN 2024 | DATA INFDIKATOR RPJMD URUSAN PEKERJAAN UMUM DAN PENATAAN RUANG DINAS LINGKUNGAN HIDUP KAB. WONOSOBO TRIWULAN I TAHUN 2024 | DATA INFDIKATOR RPJMD URUSAN PEKERJAAN UMUM DAN PENATAAN RUANG DINAS LINGKUNGAN HIDUP KAB. WONOSOBO TRIWULAN I TAHUN 2024 | DATA INFDIKATOR RPJMD URUSAN PEKERJAAN UMUM DAN PENATAAN RUANG DINAS LINGKUNGAN HIDUP KAB. WONOSOBO TRIWULAN I TAHUN 2024 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| No | Indikator kinerja Program | Capaian 2023 | 2024 |  |  |  | Target Akhir RPJMD | OPD |
+|  |  |  | Target | Realisasi Kinera TW I | % Capaian TW I | Status Capaian |  |  |
+| 1 | 2 | 3 | 4 | 5 | (5/4)x100 | 6 | 7 | 8 |
+| Program pengembangan sistem dan pengelolaan persampahan regional | Program pengembangan sistem dan pengelolaan persampahan regional | Program pengembangan sistem dan pengelolaan persampahan regional | Program pengembangan sistem dan pengelolaan persampahan regional | Program pengembangan sistem dan pengelolaan persampahan regional |  |  |  |  |
+| 1 | Persentase tersedianya fasilitas TPS 3R skala kelurahan/desa | 8.3 | 11.32 | 8.3 | 73.34 | Tercapai | 13.96 | Dinas Lingkungan Hidup Kabupaten Wonosobo |
+
+*Total: 5 baris × 9 kolom*
+
+## Data: Sheet1
+
+| DATA INFDIKATOR RPJMD URUSAN PEKERJAAN UMUM DAN PENATAAN RUANG DINAS LINGKUNGAN HIDUP KAB. WONOSOBO TRIWULAN I TAHUN 2024 | DATA INFDIKATOR RPJMD URUSAN PEKERJAAN UMUM DAN PENATAAN RUANG DINAS LINGKUNGAN HIDUP KAB. WONOSOBO TRIWULAN I TAHUN 2024 | DATA INFDIKATOR RPJMD URUSAN PEKERJAAN UMUM DAN PENATAAN RUANG DINAS LINGKUNGAN HIDUP KAB. WONOSOBO TRIWULAN I TAHUN 2024 | DATA INFDIKATOR RPJMD URUSAN PEKERJAAN UMUM DAN PENATAAN RUANG DINAS LINGKUNGAN HIDUP KAB. WONOSOBO TRIWULAN I TAHUN 2024 | DATA INFDIKATOR RPJMD URUSAN PEKERJAAN UMUM DAN PENATAAN RUANG DINAS LINGKUNGAN HIDUP KAB. WONOSOBO TRIWULAN I TAHUN 2024 | DATA INFDIKATOR RPJMD URUSAN PEKERJAAN UMUM DAN PENATAAN RUANG DINAS LINGKUNGAN HIDUP KAB. WONOSOBO TRIWULAN I TAHUN 2024 | DATA INFDIKATOR RPJMD URUSAN PEKERJAAN UMUM DAN PENATAAN RUANG DINAS LINGKUNGAN HIDUP KAB. WONOSOBO TRIWULAN I TAHUN 2024 | DATA INFDIKATOR RPJMD URUSAN PEKERJAAN UMUM DAN PENATAAN RUANG DINAS LINGKUNGAN HIDUP KAB. WONOSOBO TRIWULAN I TAHUN 2024 | DATA INFDIKATOR RPJMD URUSAN PEKERJAAN UMUM DAN PENATAAN RUANG DINAS LINGKUNGAN HIDUP KAB. WONOSOBO TRIWULAN I TAHUN 2024 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| No | Indikator kinerja Program | Capaian 2023 | 2024 |  |  |  | Target Akhir RPJMD | OPD |
+|  |  |  | Target | Realisasi Kinera TW I | % Capaian TW I | Status Capaian |  |  |
+| 1 | 2 | 3 | 4 | 5 | (5/4)x100 | 6 | 7 | 8 |
+| Program pengembangan sistem dan pengelolaan persampahan regional | Program pengembangan sistem dan pengelolaan persampahan regional | Program pengembangan sistem dan pengelolaan persampahan regional | Program pengembangan sistem dan pengelolaan persampahan regional | Program pengembangan sistem dan pengelolaan persampahan regional |  |  |  |  |
+| 1 | Persentase tersedianya fasilitas TPS 3R skala kelurahan/desa | 8.3 | 11.32 | 8.3 | 73.34 | Tercapai | 13.96 | Dinas Lingkungan Hidup Kabupaten Wonosobo |
+
+*Total: 5 baris × 9 kolom*
+
+---
+
+*Data dari [Open Data Kabupaten Wonosobo](https://opendata.wonosobokab.go.id/), dikonversi otomatis dari XLSX.*

@@ -1,0 +1,67 @@
+---
+title: "JUMLAH WARGA NEGARA YANG MEMPEROLEH LAYANAN AKIBAT DARI PENEGAKAN HUKUM PERDA & PERKADA"
+slug: jumlah-warga-negara-yang-memperoleh-layanan-akibat-dari-penegakan-hukum-perda-perkada
+organization: 
+organization_slug: 
+source_url: https://opendata.wonosobokab.go.id/dataset/e3a798d6-c32e-43eb-b8d5-f3cb5abc3ec7
+license: unknown
+format: XLSX
+file_size: 6048
+download_url: https://opendata.wonosobokab.go.id/id/dataset/e3a798d6-c32e-43eb-b8d5-f3cb5abc3ec7/resource/578be3f7-85d4-413e-b8f1-c3a0a0d7f3e1/download/jumlah-warga-negara-yang-memperoleh-layanan-akibat-dari-penegakan-hukum-perda-perkada-triwulan-.xlsx
+created_at: 2026-02-25T04:59:21.348Z
+modified_at: 2026-02-25T04:59:49.978Z
+is_latest: true
+tags:
+  - "Satuan Polisi Pamong Praja"
+tables:
+  - sheet: "Lembar1"
+    rows: 4
+    columns: 4
+    headers:
+      - { index: 0, name: "JUMLAH WARGA NEGARA YANG MEMPEROLEH LAYANAN AKIBAT DARI PENEGAKAN HUKUM PERDA & PERKADA (TRIWULAN III)", type: "integer" }
+      - { index: 1, name: "JUMLAH WARGA NEGARA YANG MEMPEROLEH LAYANAN AKIBAT DARI PENEGAKAN HUKUM PERDA & PERKADA (TRIWULAN III)", type: "string" }
+      - { index: 2, name: "JUMLAH WARGA NEGARA YANG MEMPEROLEH LAYANAN AKIBAT DARI PENEGAKAN HUKUM PERDA & PERKADA (TRIWULAN III)", type: "integer" }
+      - { index: 3, name: "JUMLAH WARGA NEGARA YANG MEMPEROLEH LAYANAN AKIBAT DARI PENEGAKAN HUKUM PERDA & PERKADA (TRIWULAN III)", type: "integer" }
+  - sheet: "Lembar1"
+    rows: 4
+    columns: 4
+    headers:
+      - { index: 0, name: "JUMLAH WARGA NEGARA YANG MEMPEROLEH LAYANAN AKIBAT DARI PENEGAKAN HUKUM PERDA & PERKADA (TRIWULAN III)", type: "integer" }
+      - { index: 1, name: "JUMLAH WARGA NEGARA YANG MEMPEROLEH LAYANAN AKIBAT DARI PENEGAKAN HUKUM PERDA & PERKADA (TRIWULAN III)", type: "string" }
+      - { index: 2, name: "JUMLAH WARGA NEGARA YANG MEMPEROLEH LAYANAN AKIBAT DARI PENEGAKAN HUKUM PERDA & PERKADA (TRIWULAN III)", type: "integer" }
+      - { index: 3, name: "JUMLAH WARGA NEGARA YANG MEMPEROLEH LAYANAN AKIBAT DARI PENEGAKAN HUKUM PERDA & PERKADA (TRIWULAN III)", type: "integer" }
+---
+
+# JUMLAH WARGA NEGARA YANG MEMPEROLEH LAYANAN AKIBAT DARI PENEGAKAN HUKUM PERDA & PERKADA
+
+> **Sumber:** Open Data Kabupaten Wonosobo
+
+## Deskripsi
+
+JUMLAH WARGA NEGARA YANG MEMPEROLEH LAYANAN AKIBAT DARI PENEGAKAN HUKUM PERDA & PERKADA
+
+## Data: Lembar1
+
+| JUMLAH WARGA NEGARA YANG MEMPEROLEH LAYANAN AKIBAT DARI PENEGAKAN HUKUM PERDA & PERKADA (TRIWULAN III) | JUMLAH WARGA NEGARA YANG MEMPEROLEH LAYANAN AKIBAT DARI PENEGAKAN HUKUM PERDA & PERKADA (TRIWULAN III) | JUMLAH WARGA NEGARA YANG MEMPEROLEH LAYANAN AKIBAT DARI PENEGAKAN HUKUM PERDA & PERKADA (TRIWULAN III) | JUMLAH WARGA NEGARA YANG MEMPEROLEH LAYANAN AKIBAT DARI PENEGAKAN HUKUM PERDA & PERKADA (TRIWULAN III) |
+| --- | --- | --- | --- |
+| NO | BULAN | BANYAK (KALI) | JUMLAH WARGA NEGARA YANG TERDAMPAK |
+| 1 | JULI | 15 | 0 |
+| 2 | AGUSTUS | 22 | 0 |
+| 3 | SEPTEMBER | 21 | 0 |
+
+*Total: 4 baris × 4 kolom*
+
+## Data: Lembar1
+
+| JUMLAH WARGA NEGARA YANG MEMPEROLEH LAYANAN AKIBAT DARI PENEGAKAN HUKUM PERDA & PERKADA (TRIWULAN III) | JUMLAH WARGA NEGARA YANG MEMPEROLEH LAYANAN AKIBAT DARI PENEGAKAN HUKUM PERDA & PERKADA (TRIWULAN III) | JUMLAH WARGA NEGARA YANG MEMPEROLEH LAYANAN AKIBAT DARI PENEGAKAN HUKUM PERDA & PERKADA (TRIWULAN III) | JUMLAH WARGA NEGARA YANG MEMPEROLEH LAYANAN AKIBAT DARI PENEGAKAN HUKUM PERDA & PERKADA (TRIWULAN III) |
+| --- | --- | --- | --- |
+| NO | BULAN | BANYAK (KALI) | JUMLAH WARGA NEGARA YANG TERDAMPAK |
+| 1 | JULI | 15 | 0 |
+| 2 | AGUSTUS | 22 | 0 |
+| 3 | SEPTEMBER | 21 | 0 |
+
+*Total: 4 baris × 4 kolom*
+
+---
+
+*Data dari [Open Data Kabupaten Wonosobo](https://opendata.wonosobokab.go.id/), dikonversi otomatis dari XLSX.*
